@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlavioBomfim
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any company
 - 📫 How to reach me: flaviogabrielribeiro@gmail ;)
 
